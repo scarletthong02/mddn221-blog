@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width", initial-scale="1.0">
+        <title> Week Eleven| Scarlett's Blog</title>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+
+        <!--header-->
+        <header>
+            <!--nav bar-->
+            <div class="nav container">
+                <a href="index.html" class="logo"> HOME</a>
+                <a href="https://www.instagram.com/scrlettdesign/" target="_blank" class="link"> CONNECT</a>
+            </div>
+        </header>
+
+        <!--blog content-->
+        <section class="blog-header">
+            <div class="header-content blog-container">
+                <a class="header-title">Week eleven</a>
+                <img src="img/weekeleven.jpg" class="header-img">
+            </div>
+        </section>
+
+      
+
+        <!--blog posts-->
+        <section class="blog-content blog-container">
+            <a class="sub-heading">Thinking like a coder & Assignment Development
+            </a>
+            <p class="blog-text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem necessitatibus eveniet, accusamus possimus provident mollitia assumenda impedit tenetur explicabo quod? Fuga animi nulla vitae sit dolores ipsum ipsam consequuntur, reprehenderit illo praesentium quas rem odio expedita blanditiis distinctio aliquam omnis possimus aperiam molestias ad voluptas!</p>
+      
+        </section>
+
+
+
+        <div class="footer container">
+            <div class="name">
+            <p>&#169; SCARLETT HONG</p>
+            <p> 300564640</p>
+            </div>
+            <div class="course">
+                <p>MDDN221</p>
+                <p>Assignment Three</p>
+            </div>
+        </div>
